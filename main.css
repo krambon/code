@@ -1,0 +1,94 @@
+html {
+  background-color: #f4f9ff;
+  overflow-x: hidden;
+}
+
+body {
+  padding: 0 10px;
+  margin: 0 auto;
+  max-width: 1000px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+header {
+  height: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+
+header h1 {
+  font-weight: normal;
+  font-size: 24px;
+  margin-bottom: 15px;
+  padding: 0;
+}
+
+main {
+  margin-bottom: 120px;
+}
+
+picture img {
+  width: 100%;
+}
+
+.index {
+  height: 280px;
+}
+
+.main_text {
+  font-size: 18px;
+  padding: 35px 0 25px 0;
+  margin: 0;
+}
+
+.sub_text {
+  font-size: 14px;
+}
+
+li {
+  line-height: 14px;
+  margin-bottom: 30px;
+}
+
+.book_title {
+  font-size: 18px;
+  padding-bottom: 20px;
+  margin: 0;
+}
+
+.cite dl {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.cite dl dt {
+  width: 25%;
+}
+
+.cite dl dd {
+  width: 75%;
+}
+
+hr {
+  opacity: 0.5;
+}
+
+.book_content p {
+  margin: 20px 0;
+}
+
+footer {
+  font-size: 10px;
+  width: 520px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+/*# sourceMappingURL=main.css.map */
